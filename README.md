@@ -1,4 +1,4 @@
-# Weather-
+# ForecastIQ-
 "Simple Weather Application using HTML, CSS & JavaScript"
 
 Overview of Weather App
